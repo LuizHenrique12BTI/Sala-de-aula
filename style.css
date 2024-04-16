@@ -33,3 +33,19 @@ h2 {
     img {
         vertical-align: top
     }
+
+    #filmes {
+        color: yellow;
+    }
+
+    #romance {
+        color: purple;
+    }
+
+    #inimigos {
+        color: orangered;
+    }
+
+    #criadores {
+        color: brown;
+    }

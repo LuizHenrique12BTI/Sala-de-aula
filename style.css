@@ -4,6 +4,7 @@ body {
 
 h1 {
     color: rgb(255, 217, 0);
+    background-color: black;
 }
 
 h2 {
@@ -43,9 +44,9 @@ h2 {
     }
 
     #inimigos {
-        color: orangered;
+        color: rgb(255, 69, 0);
     }
 
     #criadores {
-        color: brown;
+        color: rgb(165, 42, 42);
     }
